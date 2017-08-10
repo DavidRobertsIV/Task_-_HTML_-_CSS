@@ -6,3 +6,5 @@ What we need from you is to replicate the <a href="/mockup.png">mockup.png</a> i
 
   You'll need to implement the icomoon font to create some of the icons you'll see in the mockup, you'll find icomoon specific instructions inside the icomoon zip
   
+  Don't worry about submitting the search form, just make sure it can be clicked into. Also please don't worry about where the header nav links go, you can just send them to example.com or anywhere else.
+  
